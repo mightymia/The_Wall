@@ -1,0 +1,75 @@
+* {
+	margin: 0em;
+	padding: 0em;
+	font-family: sans-serif;
+}
+/* Styling for index.php */
+h1{
+	text-align: center;
+}
+form {
+
+	width: 20em;
+	margin: 1em;
+	padding: .25em;
+}
+input {
+	margin: .1em;
+}
+.error {
+	color: red;
+	vertical-align: top;
+}
+
+/* Styling for wall.php */
+h4 {
+	margin-top: .25em;
+	margin-left: .25em;
+}
+h5 {
+	display: inline;
+	position: absolute;
+	margin-left: 40em;
+	margin-top: -1em;
+}
+a {
+	display: inline;
+	position: absolute;
+	margin-left: 42em;
+	margin-top: -1em;
+}
+hr {
+	margin-top: .25em;
+	width: 60em;
+}
+textarea{
+	margin-top: .25em;
+}
+#message_submit {
+	margin-left: 38em;
+	border-radius: .15em;
+	padding: .10em;
+	color: white;
+	background-color: #1975FF;
+}
+.user {
+	margin-left: 1em;
+	margin-bottom: .25em;
+}
+.message_style {
+	margin-left: 1.5em;
+	margin-bottom: .75em;
+}
+#comment_submit {
+	margin-left: 38em;
+	border-radius: .15em;
+	padding: .10em;
+	color: white;
+	background-color: #00CC00;
+}
+.user_comment {
+	margin-left: 2em;
+}
+.comment_style {
+	margin-left: 2.5em;
+}
